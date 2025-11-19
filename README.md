@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
