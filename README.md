@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvvgognaa/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/garvvgognaa/Leet-Code/tree/master/0135-candy) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
