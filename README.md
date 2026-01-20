@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvvgognaa/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/garvvgognaa/Leet-Code/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/garvvgognaa/Leet-Code/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Dynamic Programming
 |  |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/garvvgognaa/Leet-Code/tree/master/0058-length-of-last-word) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
