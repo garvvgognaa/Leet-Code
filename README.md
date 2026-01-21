@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/garvvgognaa/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvvgognaa/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/garvvgognaa/Leet-Code/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/garvvgognaa/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/garvvgognaa/Leet-Code/tree/master/0058-length-of-last-word) |
 ## Sorting
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/garvvgognaa/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
