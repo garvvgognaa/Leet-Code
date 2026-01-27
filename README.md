@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garvvgognaa/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvvgognaa/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/garvvgognaa/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/garvvgognaa/Leet-Code/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0027-remove-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/garvvgognaa/Leet-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
