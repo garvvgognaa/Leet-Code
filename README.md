@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvvgognaa/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvvgognaa/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bit Manipulation
 |  |
@@ -139,5 +141,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvvgognaa/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
