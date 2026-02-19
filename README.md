@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
+| [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/garvvgognaa/Leet-Code/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/garvvgognaa/Leet-Code/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garvvgognaa/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
