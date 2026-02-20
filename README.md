@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvvgognaa/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/garvvgognaa/Leet-Code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/garvvgognaa/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0268-missing-number) |
 ## String
@@ -77,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
 ## Trie
 |  |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/garvvgognaa/Leet-Code/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
