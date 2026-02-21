@@ -173,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/garvvgognaa/Leet-Code/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
