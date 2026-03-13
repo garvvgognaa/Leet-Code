@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/garvvgognaa/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/garvvgognaa/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/garvvgognaa/Leet-Code/tree/master/0035-search-insert-position) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/garvvgognaa/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/garvvgognaa/Leet-Code/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/garvvgognaa/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garvvgognaa/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/garvvgognaa/Leet-Code/tree/master/0125-valid-palindrome) |
