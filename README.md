@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/garvvgognaa/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/garvvgognaa/Leet-Code/tree/master/0035-search-insert-position) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/garvvgognaa/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvvgognaa/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/garvvgognaa/Leet-Code/tree/master/0135-candy) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/garvvgognaa/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garvvgognaa/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/garvvgognaa/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/garvvgognaa/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/garvvgognaa/Leet-Code/tree/master/0344-reverse-string) |
