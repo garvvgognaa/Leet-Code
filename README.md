@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/garvvgognaa/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Greedy
 |  |
 | ------- |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
