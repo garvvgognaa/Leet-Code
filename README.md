@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/garvvgognaa/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Greedy
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvvgognaa/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/garvvgognaa/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack
 |  |
@@ -215,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
