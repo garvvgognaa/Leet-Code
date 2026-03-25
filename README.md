@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/garvvgognaa/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 ## Greedy
 |  |
 | ------- |
@@ -221,8 +222,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/garvvgognaa/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/garvvgognaa/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/garvvgognaa/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
