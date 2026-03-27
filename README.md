@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/garvvgognaa/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/garvvgognaa/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 ## Greedy
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/garvvgognaa/Leet-Code/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/garvvgognaa/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/garvvgognaa/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/garvvgognaa/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/garvvgognaa/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
+## Simulation
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/garvvgognaa/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
