@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/garvvgognaa/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/garvvgognaa/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvvgognaa/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/garvvgognaa/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0110-balanced-binary-tree) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/garvvgognaa/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0110-balanced-binary-tree) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/garvvgognaa/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/garvvgognaa/Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/garvvgognaa/Leet-Code/tree/master/0112-path-sum) |
