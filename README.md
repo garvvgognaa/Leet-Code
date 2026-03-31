@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/garvvgognaa/Leet-Code/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/garvvgognaa/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/garvvgognaa/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/garvvgognaa/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
