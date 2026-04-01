@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/garvvgognaa/Leet-Code/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/garvvgognaa/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/garvvgognaa/Leet-Code/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/garvvgognaa/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/garvvgognaa/Leet-Code/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
