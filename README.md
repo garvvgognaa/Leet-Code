@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/garvvgognaa/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/garvvgognaa/Leet-Code/tree/master/0832-flipping-an-image) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/garvvgognaa/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/garvvgognaa/Leet-Code/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/garvvgognaa/Leet-Code/tree/master/0832-flipping-an-image) |
 ## Memoization
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/garvvgognaa/Leet-Code/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/garvvgognaa/Leet-Code/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/garvvgognaa/Leet-Code/tree/master/0476-number-complement) |
+| [0832-flipping-an-image](https://github.com/garvvgognaa/Leet-Code/tree/master/0832-flipping-an-image) |
 ## Linked List
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/garvvgognaa/Leet-Code/tree/master/0832-flipping-an-image) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/2906-construct-product-matrix) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/garvvgognaa/Leet-Code/tree/master/0832-flipping-an-image) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/garvvgognaa/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Interactive
 |  |
