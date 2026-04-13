@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/garvvgognaa/Leet-Code/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
+| [2235-add-two-integers](https://github.com/garvvgognaa/Leet-Code/tree/master/2235-add-two-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/garvvgognaa/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
