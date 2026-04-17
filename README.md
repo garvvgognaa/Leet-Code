@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2906-construct-product-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/garvvgognaa/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/garvvgognaa/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/garvvgognaa/Leet-Code/tree/master/0832-flipping-an-image) |
+| [1929-concatenation-of-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/garvvgognaa/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Interactive
 |  |
