@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/garvvgognaa/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/garvvgognaa/Leet-Code/tree/master/0832-flipping-an-image) |
+| [1512-number-of-good-pairs](https://github.com/garvvgognaa/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/garvvgognaa/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/garvvgognaa/Leet-Code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/garvvgognaa/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/garvvgognaa/Leet-Code/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/garvvgognaa/Leet-Code/tree/master/0812-largest-triangle-area) |
+| [1512-number-of-good-pairs](https://github.com/garvvgognaa/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/garvvgognaa/Leet-Code/tree/master/2235-add-two-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/garvvgognaa/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/garvvgognaa/Leet-Code/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/garvvgognaa/Leet-Code/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/garvvgognaa/Leet-Code/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/garvvgognaa/Leet-Code/tree/master/0561-array-partition) |
+| [1512-number-of-good-pairs](https://github.com/garvvgognaa/Leet-Code/tree/master/1512-number-of-good-pairs) |
 ## Trie
 |  |
 | ------- |
